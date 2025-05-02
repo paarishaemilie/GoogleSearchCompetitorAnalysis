@@ -11,6 +11,17 @@ A Flask web app that fetches top Google search results for a user-defined keywor
 - 🖼 Responsive UI with loading animation and enhanced UX
 - 🧾 Keyword and bigram summaries shown before article results
 
+## 🖥️ Screenshot
+
+<details>
+  <summary>Click to view screenshot</summary>
+
+  <br>
+
+  ![App UI Screenshot](https://raw.githubusercontent.com/paarishaemilie/GoogleSearchCompetitorAnalysis/main/Search%20%26%20Analyze%20Top%20Google%20Searches.png)
+
+</details>
+
 ## 📦 Installation
 
 ### Clone the Repository

@@ -1,0 +1,7 @@
+Flask
+spacy
+newspaper3k
+beautifulsoup4
+tabulate
+googlesearch-python
+lxml[html_clean]
